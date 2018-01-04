@@ -1,0 +1,5 @@
+{
+  "blockchain-101-c.py::TestClass::()::test_get_uncompressed_y_from_compressed_key_2": true,
+  "blockchain-101-c.py::TestClass::()::test_get_y_value_of_public_key_from_compressed_x": true,
+  "scholarship_question.py::TestClass::()::test_using_sort_in_linear_time_algorithm": true
+}
